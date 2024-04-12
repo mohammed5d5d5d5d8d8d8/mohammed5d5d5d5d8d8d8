@@ -1,0 +1,16 @@
+{
+  "name": "school_website_2023_8_25",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1",
+    "vite": "^4.4.5",
+    "vite-plugin-pug": "^0.3.2"
+  }
+}
